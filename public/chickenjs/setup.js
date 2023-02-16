@@ -2,7 +2,7 @@ const betPool = document.getElementById('betValue');
 $(document).ready(async function () {
   setTimeout(async function () {
     let betvalue = await getBetPool();
-    betPool.innerHTML = `Tokens in Pool `+ betvalue;
+    betPool.innerHTML = `BIT Tokens in Pool `+ betvalue;
   }, 1000);
 });
 
