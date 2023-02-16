@@ -38,7 +38,7 @@ The integration of these technologies allowed for a seamless and engaging bettin
 
 Overall, combining these technologies made for a well-rounded and impressive platform that offers a unique and exciting betting experience. 
 
-URL: 
+URL: https://rooster-bet-9aw2e.ondigitalocean.app/
 
 Smart contract is deployed on Network: https://explorer.testnet.mantle.xyz/address/0x18616BE6eBD2f67d955AccD2eaaF717bC24973bc
  
