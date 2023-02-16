@@ -1,16 +1,14 @@
 # Rooster Bet Game
-Get ready for a thrilling betting experience with our new game inspired by the classic chicken run! Watch live streams and place bets on the action using tokens on the Testnet. Enjoy a secure, transparent, and decentralized platform like never before!
+Get ready for a thrilling betting experience with our new game inspired by the classic chicken run! 
+Watch live streams and place bets on the action using tokens on the Testnet. 
+Enjoy a secure, transparent, and decentralized platform like never before!
 
 <br>
 
 ## Project Description
-Are you ready for a revolutionary betting experience? Introducing a new and exciting game based on the classic "chicken run," featuring live streaming and blockchain technology!
-
-With our platform, you can bet on the action using BIT tokens on the Mantle Testnet. You benefit from a secure, transparent, decentralized platform with fast and low-cost transactions.
-
-We've taken the traditional betting experience to the next level by combining the classic "chicken run" game with innovative blockchain technology. As a result, you'll enjoy a unique and engaging betting experience that distinguishes us from the rest.
-
-So, what are you waiting for? Join the future of betting and try our platform today! Experience a new and exciting way to bet on the action with BIT tokens on the Mantle Testnet.
+Are you ready for a revolutionary betting experience? 
+Introducing a new and exciting game based on the classic "chicken run," featuring live streaming and blockchain technology! 
+With our platform, you can bet on the action using BIT tokens on the Mantle Testnet. You benefit from a secure, transparent, decentralized platform with fast and low-cost transactions. We've taken the traditional betting experience to the next level by combining the classic "chicken run" game with innovative blockchain technology. As a result, you'll enjoy a unique and engaging betting experience that distinguishes us from the rest. So, what are you waiting for? Join the future of betting and try our platform today! Experience a new and exciting way to bet on the action with BIT tokens on the Mantle Testnet.
 
 <br>
 
