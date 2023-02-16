@@ -1,5 +1,6 @@
 # Rooster Bet Game
-Get ready for a thrilling betting experience with our new game inspired by the classic chicken run! 
+Get ready for a thrilling betting experience with our new game inspired by the classic chicken run!
+<br>
 Watch live streams and place bets on the action using tokens on the Testnet. 
 Enjoy a secure, transparent, and decentralized platform like never before!
 
