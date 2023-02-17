@@ -27,7 +27,7 @@ async function setup() {
 
 button.onclick = async () => {
   await setup();
-  const streamKey = '7c9d-nsql-jbv6-dt37';
+  const streamKey = 'dfe9-s5e6-5j9r-6sbz';
   console.log('streamKey', streamKey);
 
   if (!streamKey) {
